@@ -1,0 +1,34 @@
+[
+    {
+        "evento": "prima cena",
+        "partecipanti": 5
+    },
+    {
+        "evento": "seconda cena",
+        "partecipanti": 47
+    },
+    {
+        "evento": "terza cena",
+        "partecipanti": 23
+    },
+    {
+        "evento": "quarta cena",
+        "partecipanti": 7
+    },
+    {
+        "evento": "quinta cena",
+        "partecipanti": 5
+    },
+    {
+        "evento": "sesta cena",
+        "partecipanti": 14
+    },
+    {
+        "evento": "Giovanni",
+        "partecipanti": 206
+    },
+    {
+        "evento": "Primo eser",
+        "partecipanti": 5
+    }
+]
