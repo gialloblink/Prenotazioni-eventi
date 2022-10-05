@@ -21,6 +21,7 @@ if (array_key_exists( 'evento' , $_GET )) {
     <title>Home</title>
 </head>
 <body>
+    
 <h1>INSERISCI UNA PRENOTAZIONE</h1>
 <br>
     <form action="home.php"  method="GET" novalidate>
